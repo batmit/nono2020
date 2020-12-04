@@ -1,0 +1,51 @@
+header {
+
+    text-align: center;
+
+    background-color: aliceblue;
+
+    border-radius: 0.8rem;
+
+}
+
+#alunos{
+
+    text-align: center;
+
+    background-color: beige;
+
+    border-radius: 0.8rem;
+
+}
+
+#alunos a{
+
+    background-color: aliceblue;
+
+    border-radius: 0.8rem;
+
+    display: block;
+
+    margin: 1rem;
+
+    text-decoration: none;
+
+    transition: 2s;
+
+}
+
+#alunos a:hover {
+
+    background-color: blue;
+
+}
+
+@media (min-width: 700px) {
+
+    #alunos a{
+
+        padding: 1rem;
+
+    }
+
+}
