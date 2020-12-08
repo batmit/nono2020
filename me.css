@@ -1,0 +1,27 @@
+img{
+
+    display: inline;
+
+    margin: 1rem;
+
+}
+
+body {
+
+    text-align: center;
+
+}
+
+#livro {
+
+    border-bottom: 1px solid black  ;
+
+    border-top: 1px solid black ;
+
+}
+
+#filme {
+
+    border-bottom: 1px solid black;
+
+}
