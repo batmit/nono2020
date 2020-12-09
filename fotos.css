@@ -1,5 +1,28 @@
 body{
 
+    margin: 2rem;
+
+    border: 1px solid black ;
+
+    border-radius: 0.8rem;
+
+}
+
+img {
+
     margin: 1rem;
+
+
+}
+
+@media (max-width: 700px) {
+
+    img{
+
+        display: block;
+
+        text-align: center;
+
+    }
 
 }
