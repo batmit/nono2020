@@ -32,6 +32,8 @@ header {
 
     transition: 2s;
 
+    padding: 1rem;
+
 }
 
 #alunos a:hover {
@@ -40,12 +42,3 @@ header {
 
 }
 
-@media (min-width: 700px) {
-
-    #alunos a{
-
-        padding: 2rem;
-
-    }
-
-}
